@@ -216,6 +216,10 @@ header {
         margin-left: 5%; }
       .gifo-Expand .gifo-Expand__elments .elments-gifo-Expand__icons .icons__gifo-max {
         display: none; }
+      .gifo-Expand .gifo-Expand__elments .elments-gifo-Expand__icons .icons__gifo-trash {
+        width: 36px;
+        height: 36px;
+        margin-left: 5%; }
     .gifo-Expand .gifo-Expand__elments .elments-gifo-Expand__text-container {
       width: 75%;
       display: flex;
@@ -466,6 +470,10 @@ footer {
           margin-right: 5%; }
         .gifo-Active .gifo-Active__elments .elments-gifo-Active__icons .icons__gifo-max {
           display: block;
+          width: 36px;
+          margin: 0px;
+          margin-right: 5%; }
+        .gifo-Active .gifo-Active__elments .elments-gifo-Active__icons .icons__gifo-trash {
           width: 36px;
           margin: 0px;
           margin-right: 5%; }

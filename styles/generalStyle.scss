@@ -249,7 +249,12 @@ header{
             }
             .icons__gifo-max{
                 display: none;
-            } 
+            }
+            .icons__gifo-trash{
+                width: 36px;
+                height: 36px;
+                margin-left: 5%;
+            }
         }
         .elments-gifo-Expand__text-container{
             width: 75%;
@@ -581,7 +586,12 @@ footer{
                     width: 36px;
                     margin: 0px;
                     margin-right: 5%;
-                } 
+                }
+                .icons__gifo-trash{
+                    width: 36px;
+                    margin: 0px;
+                    margin-right: 5%;
+                }
             }
             .elments-gifo-Active__text-container{
                 width: 100%;
